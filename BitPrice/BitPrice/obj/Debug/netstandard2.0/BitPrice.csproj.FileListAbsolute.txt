@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.csprojResolveAssemblyReference.cache
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.App.xaml.g.cs
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.Views.AboutPage.xaml.g.cs
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.Views.ItemDetailPage.xaml.g.cs
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.Views.ItemsPage.xaml.g.cs
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.Views.MainPage.xaml.g.cs
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.Views.NewItemPage.xaml.g.cs
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.AssemblyInfo.cs
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\bin\Debug\netstandard2.0\BitPrice.deps.json
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\bin\Debug\netstandard2.0\BitPrice.dll
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\bin\Debug\netstandard2.0\BitPrice.pdb
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.dll
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.pdb
