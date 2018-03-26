@@ -1,6 +1,11 @@
+Acr.UserDialogs
+AndHUD
 BitPrice
 FormsViewGroup
+Newtonsoft.Json
+System.Collections
 System.Runtime
+System.Threading.Tasks
 Xamarin.Android.Support.Animated.Vector.Drawable
 Xamarin.Android.Support.Annotations
 Xamarin.Android.Support.Compat
@@ -24,8 +29,3 @@ Xamarin.Forms.Xaml
 netstandard
 System.ComponentModel
 System.Reflection.Extensions
-Newtonsoft.Json
-Acr.UserDialogs
-AndHUD
-System.Collections
-System.Threading.Tasks

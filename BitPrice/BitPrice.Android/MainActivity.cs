@@ -18,7 +18,7 @@ namespace BitPrice.Droid
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
 
-            //UserDialogs.Init(this);
+            UserDialogs.Init(this);
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);

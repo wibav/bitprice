@@ -17,10 +17,6 @@ C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\res\draw
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\R.cs.flag
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\uploadflags.txt
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\bin\Debug\BitPrice.Android.dll.mdb
-C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\bin\Debug\FormsViewGroup.dll.mdb
-C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
-C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\android\assets\BitPrice.Android.dll.mdb
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb

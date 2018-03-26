@@ -1,4 +1,3 @@
-C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.csprojResolveAssemblyReference.cache
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.csproj.CoreCompileInputs.cache
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.App.xaml.g.cs
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice\obj\Debug\netstandard2.0\BitPrice.Views.AboutPage.xaml.g.cs
