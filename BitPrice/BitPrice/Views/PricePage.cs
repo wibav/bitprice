@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using BitPrice.Models;
 using BitPrice.Services;
+using BitPrice.ViewModels;
 
 using Xamarin.Forms;
 
@@ -14,7 +15,7 @@ namespace BitPrice.Views
         List<CryptoPrices> prices;
         CryptoPriceService service;
         Label info;
-        Grid InfoGrid;
+        ListView listado;
         public PricePage ()
 		{
             service = new CryptoPriceService();
@@ -53,44 +54,18 @@ namespace BitPrice.Views
 
         private void LlenarGrid(List<CryptoPrices> prices)
         {
-            InfoGrid = new Grid()
+            listado = new ListView
             {
-                HorizontalOptions = LayoutOptions.FillAndExpand
-            };
-            InfoGrid.RowDefinitions.Add(new RowDefinition { Height = new GridLength(1, GridUnitType.Auto) });
-            InfoGrid.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
-            InfoGrid.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
-            InfoGrid.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
-            InfoGrid.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
-            foreach (CryptoPrices data in prices)
-            {
-                InfoGrid.Children.Add(new Label
-                {
-                    TextColor = Color.Black,
-                    Text = data.symbol
-                }, 0, 1, 0, 1);
-                InfoGrid.Children.Add(new Label
-                {
-                    TextColor = Color.Black,
-                    Text = data.rank
-                }, 0, 1, 0, 2);
-                InfoGrid.Children.Add(new Label
-                {
-                    TextColor = Color.Black,
-                    Text = data.price_usd
-                }, 0, 1, 0, 3);
-                InfoGrid.Children.Add(new Label
-                {
-                    TextColor = Color.Black,
-                    Text = data.percent_change_24h
-                }, 0, 1, 0, 4);
-            }
+                ItemTemplate = new DataTemplate(typeof(PricesGridModel)),
+                ItemsSource = prices
+        };
+
             Content = new ScrollView
             {
                 Content = new StackLayout
                 {
                     Children = {
-                        InfoGrid
+                        listado
                     }
                 }
             };
