@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "b27794e5b5b5f10aba0a2076d6ffd15280883abb"
+    "signature": "828ed78f907277423e023335478b985abaafd7d2"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,6 +10,7 @@
       "BitPrice/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.1",
+          "Newtonsoft.Json": "11.0.2",
           "Xamarin.Forms": "2.5.0.122203"
         },
         "runtime": {
@@ -20,6 +21,11 @@
       "NETStandard.Library/2.0.1": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
       "Xamarin.Forms/2.5.0.122203": {
@@ -50,6 +56,13 @@
       "sha512": "sha512-oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
       "path": "netstandard.library/2.0.1",
       "hashPath": "netstandard.library.2.0.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
     },
     "Xamarin.Forms/2.5.0.122203": {
       "type": "package",

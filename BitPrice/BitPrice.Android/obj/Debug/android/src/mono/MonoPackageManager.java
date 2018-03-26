@@ -109,6 +109,7 @@ class MonoPackageManager_Resources {
 		"BitPrice.Android.dll",
 		"BitPrice.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Annotations.dll",
 		"Xamarin.Android.Support.Compat.dll",

@@ -1,5 +1,4 @@
 ﻿using System;
-
 using BitPrice.Views;
 using Xamarin.Forms;
 
@@ -21,7 +20,7 @@ namespace BitPrice
 			InitializeComponent();
 
 
-            MainPage = new MainPage();
+            MainPage = new SplashPage();
         }
 
 		protected override void OnStart ()

@@ -7,7 +7,7 @@ using System.Text;
 
 using Xamarin.Forms;
 
-namespace Chappsy.Views
+namespace BitPrice.Views
 {
 	public class SplashPage  : ContentPage
 	{
@@ -43,9 +43,8 @@ namespace Chappsy.Views
             //await splashImage.ScaleTo(3, 2000); //Time-consuming processes such as initialization
             //await splashImage.ScaleTo(2.5, 1500, Easing.Linear);
 
-
             //await splashImage.ScaleTo(150, 1200, Easing.Linear);
-            App.SetMainPage(new MainPage());
+            App.SetMainPage(new PricePage());
             //Application.Current.MainPage = new NavigationPage(new StartPage());    //After loading  MainPage it gets Navigated to our new Page
         }
     }

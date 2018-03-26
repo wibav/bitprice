@@ -1,14 +1,11 @@
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\BitPrice.Android.csprojResolveAssemblyReference.cache
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\bin\Debug\BitPrice.Android.dll
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\bin\Debug\BitPrice.Android.pdb
-C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\bin\Debug\com.companyname.BitPrice.apk
-C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\bin\Debug\com.companyname.BitPrice-Signed.apk
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\bin\Debug\BitPrice.dll
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\bin\Debug\BitPrice.pdb
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\BitPrice.Android.csproj.CoreCompileInputs.cache
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\BitPrice.Android.dll
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\BitPrice.Android.pdb
-C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\android\bin\com.companyname.BitPrice.apk
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\res\drawable\icon.png
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\res\drawable-hdpi\icon.png
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\res\drawable-xhdpi\icon.png
@@ -29,6 +26,9 @@ C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\android\
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\bin\Debug\com.trenkit.BitPrice.apk
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\bin\Debug\com.trenkit.BitPrice-Signed.apk
+C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\obj\Debug\android\bin\com.trenkit.BitPrice.apk
 C:\Users\Home\source\repos\BitPrice\BitPrice\BitPrice.Android\bin\Debug\BitPrice.Android.dll
 bin\Debug\FormsViewGroup.dll.mdb
 bin\Debug\Xamarin.Forms.Core.dll.mdb
