@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Acr.UserDialogs;
 using BitPrice.Models;
 using BitPrice.Services;
 using BitPrice.ViewModels;
@@ -26,6 +27,7 @@ namespace BitPrice.Views
         private async void GetPrice()
         {
             try {
+                UserDialogs.Instance.ShowLoading("Por favor espere...", MaskType.Black);
                 prices = await service.GetPrices();
                 if (prices.Count > 0)
                 {
@@ -45,6 +47,7 @@ namespace BitPrice.Views
                     }
                     };
                 }
+                UserDialogs.Instance.HideLoading();
             }
             catch (Exception ex)
             {

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "828ed78f907277423e023335478b985abaafd7d2"
+    "signature": "590bca1847c5cdefa12bc6b47c9a9901e6780d9e"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,12 +9,18 @@
     ".NETStandard,Version=v2.0/": {
       "BitPrice/1.0.0": {
         "dependencies": {
+          "Acr.UserDialogs": "7.0.1",
           "NETStandard.Library": "2.0.1",
           "Newtonsoft.Json": "11.0.2",
           "Xamarin.Forms": "2.5.0.122203"
         },
         "runtime": {
           "BitPrice.dll": {}
+        }
+      },
+      "Acr.UserDialogs/7.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Acr.UserDialogs.dll": {}
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
@@ -42,6 +48,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Acr.UserDialogs/7.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+eGbTgwaFPzcaRnMdnAK5pHA0eoeoxkhy80FNwGeewqvA+DM6fUPM9yMbrN2hw3rcuBaXd2ghy2Xq5XU7m8qkw==",
+      "path": "acr.userdialogs/7.0.1",
+      "hashPath": "acr.userdialogs.7.0.1.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",

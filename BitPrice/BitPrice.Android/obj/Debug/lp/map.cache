@@ -25,3 +25,7 @@ netstandard
 System.ComponentModel
 System.Reflection.Extensions
 Newtonsoft.Json
+Acr.UserDialogs
+AndHUD
+System.Collections
+System.Threading.Tasks

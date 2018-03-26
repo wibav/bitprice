@@ -107,6 +107,8 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "BitPrice.Android.dll" comes first in this list. */
 		"BitPrice.Android.dll",
+		"Acr.UserDialogs.dll",
+		"AndHUD.dll",
 		"BitPrice.dll",
 		"FormsViewGroup.dll",
 		"Newtonsoft.Json.dll",
