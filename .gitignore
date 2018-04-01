@@ -69,7 +69,6 @@ artifacts/
 *.pidb
 *.svclog
 *.scc
-*.apk
 
 # Chutzpah Test files
 _Chutzpah*
@@ -135,6 +134,7 @@ DocProject/Help/*.hhk
 DocProject/Help/*.hhp
 DocProject/Help/Html2
 DocProject/Help/html
+Chappsy/Chappsy.Android/Chappsy.Android.csproj
 
 # Click-Once directory
 publish/
@@ -260,3 +260,4 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+*.csproj

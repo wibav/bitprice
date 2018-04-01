@@ -20,7 +20,7 @@ namespace BitPrice
 			InitializeComponent();
 
 
-            MainPage = new SplashPage();
+            MainPage = new Test();
         }
 
 		protected override void OnStart ()

@@ -985,11 +985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Home\\source\\repos\\BitPrice\\BitPrice\\BitPrice.iOS\\BitPrice.iOS.csproj",
+      "projectUniqueName": "D:\\Proyectos\\bitprice\\BitPrice\\BitPrice.iOS\\BitPrice.iOS.csproj",
       "projectName": "BitPrice.iOS",
-      "projectPath": "C:\\Users\\Home\\source\\repos\\BitPrice\\BitPrice\\BitPrice.iOS\\BitPrice.iOS.csproj",
+      "projectPath": "D:\\Proyectos\\bitprice\\BitPrice\\BitPrice.iOS\\BitPrice.iOS.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Home\\source\\repos\\BitPrice\\BitPrice\\BitPrice.iOS\\obj\\",
+      "outputPath": "D:\\Proyectos\\bitprice\\BitPrice\\BitPrice.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1006,8 +1006,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Home\\source\\repos\\BitPrice\\BitPrice\\BitPrice\\BitPrice.csproj": {
-              "projectPath": "C:\\Users\\Home\\source\\repos\\BitPrice\\BitPrice\\BitPrice\\BitPrice.csproj"
+            "D:\\Proyectos\\bitprice\\BitPrice\\BitPrice\\BitPrice.csproj": {
+              "projectPath": "D:\\Proyectos\\bitprice\\BitPrice\\BitPrice\\BitPrice.csproj"
             }
           }
         }

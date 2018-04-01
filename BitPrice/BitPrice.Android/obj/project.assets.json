@@ -820,11 +820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Home\\source\\repos\\BitPrice\\BitPrice\\BitPrice.Android\\BitPrice.Android.csproj",
+      "projectUniqueName": "D:\\Proyectos\\bitprice\\BitPrice\\BitPrice.Android\\BitPrice.Android.csproj",
       "projectName": "BitPrice.Android",
-      "projectPath": "C:\\Users\\Home\\source\\repos\\BitPrice\\BitPrice\\BitPrice.Android\\BitPrice.Android.csproj",
+      "projectPath": "D:\\Proyectos\\bitprice\\BitPrice\\BitPrice.Android\\BitPrice.Android.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Home\\source\\repos\\BitPrice\\BitPrice\\BitPrice.Android\\obj\\",
+      "outputPath": "D:\\Proyectos\\bitprice\\BitPrice\\BitPrice.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -841,8 +841,8 @@
       "frameworks": {
         "monoandroid71": {
           "projectReferences": {
-            "C:\\Users\\Home\\source\\repos\\BitPrice\\BitPrice\\BitPrice\\BitPrice.csproj": {
-              "projectPath": "C:\\Users\\Home\\source\\repos\\BitPrice\\BitPrice\\BitPrice\\BitPrice.csproj"
+            "D:\\Proyectos\\bitprice\\BitPrice\\BitPrice\\BitPrice.csproj": {
+              "projectPath": "D:\\Proyectos\\bitprice\\BitPrice\\BitPrice\\BitPrice.csproj"
             }
           }
         }
