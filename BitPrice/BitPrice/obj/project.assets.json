@@ -459,11 +459,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Home\\source\\repos\\BitPrice\\BitPrice\\BitPrice\\BitPrice.csproj",
+      "projectUniqueName": "D:\\Proyectos\\bitprice\\BitPrice\\BitPrice\\BitPrice.csproj",
       "projectName": "BitPrice",
-      "projectPath": "C:\\Users\\Home\\source\\repos\\BitPrice\\BitPrice\\BitPrice\\BitPrice.csproj",
+      "projectPath": "D:\\Proyectos\\bitprice\\BitPrice\\BitPrice\\BitPrice.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Home\\source\\repos\\BitPrice\\BitPrice\\BitPrice\\obj\\",
+      "outputPath": "D:\\Proyectos\\bitprice\\BitPrice\\BitPrice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
